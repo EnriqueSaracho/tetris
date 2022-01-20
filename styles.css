@@ -11,10 +11,26 @@ div {
     width: 200px;
 }
 
+.previous-grid {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.previous-shape {
+    height: 80px;
+    width: 80px;
+}
+
 .block {
     background-color: blue;
 }
 
 .block2 {
     background-color: purple;
+}
+
+.block3 {
+    background-color: green;
 }
