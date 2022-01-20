@@ -1,0 +1,20 @@
+div {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 200px;
+}
+
+.block {
+    background-color: blue;
+}
+
+.block2 {
+    background-color: purple;
+}
